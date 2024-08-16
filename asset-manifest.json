@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/infytrix_assessment/static/css/main.ff1b001e.css",
+    "main.js": "/infytrix_assessment/static/js/main.54e94463.js",
+    "static/js/453.c6729236.chunk.js": "/infytrix_assessment/static/js/453.c6729236.chunk.js",
+    "index.html": "/infytrix_assessment/index.html",
+    "main.ff1b001e.css.map": "/infytrix_assessment/static/css/main.ff1b001e.css.map",
+    "main.54e94463.js.map": "/infytrix_assessment/static/js/main.54e94463.js.map",
+    "453.c6729236.chunk.js.map": "/infytrix_assessment/static/js/453.c6729236.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff1b001e.css",
+    "static/js/main.54e94463.js"
+  ]
+}
